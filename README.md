@@ -10,3 +10,4 @@ and submits final result successfully.
 
 Final Score Submitted:
 835
+<img width="641" height="521" alt="image" src="https://github.com/user-attachments/assets/16307781-175b-43d5-9225-1e4390938fac" />
