@@ -6,7 +6,7 @@
 
 ---
 
-<<<<<<< HEAD
+HEAD
 Final Score Submitted:
 835
 <img width="641" height="521" alt="image" src="https://github.com/user-attachments/assets/16307781-175b-43d5-9225-1e4390938fac" />
@@ -83,8 +83,8 @@ Compile:
 
 ## Result
 
-✔ 10 API polls completed  
-✔ Duplicate handling implemented  
-✔ Leaderboard generated correctly  
-✔ Total score submitted successfully  
->>>>>>> 0e33690 (Improved README documentation)
+ 10 API polls completed  
+ Duplicate handling implemented  
+ Leaderboard generated correctly  
+ Total score submitted successfully  
+
